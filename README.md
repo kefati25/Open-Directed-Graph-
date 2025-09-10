@@ -1,6 +1,6 @@
 ## Description
 Ce projet implémente une structure de données pour représenter et manipuler des graphes orientés avec des nœuds d'entrée et de sortie. Il inclut également une extension pour les circuits booléens avec des fonctionnalités d'évaluation et de transformation.
-
+--
 ## Fonctionnalités principales
 ### Classes principales
 node: Représente un nœud dans le graphe avec des propriétés comme:
